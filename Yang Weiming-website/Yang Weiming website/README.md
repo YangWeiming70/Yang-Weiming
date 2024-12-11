@@ -1,2 +1,2 @@
 ##package
-![My Image](imgs/web page.png)
+![My Image](imgs/webpage.png)
