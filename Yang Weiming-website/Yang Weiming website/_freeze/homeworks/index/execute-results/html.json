@@ -1,0 +1,12 @@
+{
+  "hash": "46eed39e37f416220d09616573859439",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Homeworks\nexecute:\n  echo: false\n  output: false\n---\n\n\n\n\n\n\n### [homework 1 for lecture 3](homework 1 for lecture 3.html)\n### [homework 2 for lecture 3](homework 1 for lecture 3.html)\n### [homework for lecture 2-pet names](homework for lecture 2-pet names.html)\n### [homework for lecture 4](homework for lecture 4.html)\n### [homework for lecture 5](homework for lecture 5.html)\n\n\n\n['homework 1 for lecture 3.ipynb',\n 'homework 2 for lecture 3.ipynb',\n 'homework for lecture 2-pet names.ipynb',\n 'homework for lecture 4.ipynb',\n 'homework for lecture 5.ipynb',\n 'index.qmd',\n 'index.quarto_ipynb']\n\n\n  \n\n\n\n\n\n```{=html}\n<div  style=\"margin: 30px; text-align: center;\">\n<a id=\"aa\" class=\"btn btn-primary\" href=\"https://www.marvinschmitt.com/blog/website-tutorial-quarto/\" role=\"button\" target=\"_blank\" style=\"padding: 15px 30px;\">['homework 1 for lecture 3.ipynb',\n 'homework 2 for lecture 3.ipynb',\n 'homework for lecture 2-pet names.ipynb',\n 'homework for lecture 4.ipynb',\n 'homework for lecture 5.ipynb',\n 'index.qmd',\n 'index.quarto_ipynb']</a>\n</div>\n\n```\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
